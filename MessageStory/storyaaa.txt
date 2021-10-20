@@ -1,0 +1,83 @@
+[ nick3 ] : hello
+[ nick1 ] : hello
+[ qwe ] :  fsadfasdf 
+[ qwe ] : a sdfasdf s
+[ qwe ] : asd fasd fsad
+[ asd ] : sdf sdaf 
+[ asd ] : as df sdaf
+[ asd ] : as df asd
+[ qwe ] : 123 123 12
+[ qwe ] : 1 231 2312 3
+[ qwe ] : 1 2312 31
+[ asd ] : sdf safd 
+[ qwe ] : dsfa sdf asd
+[ qwe ] : 12312 3123 123 123
+[ asd ] : sd fsdfasdf asdf asdf
+[ asd ] : asd fas dfasd f
+[ asd ] : as df asdf sd 
+[ qwe ] : e rtwert wertw ertwe rt
+[ qwe ] : we rtwe rtwert wert wer
+[ rty ] : sdfg dsfg d
+[ rty ] : sdfg sdfgsdfg sdfg
+[ rty ] : sdf gsdf gds
+[ qwe ] : as dfsad 
+[ qwe ] : as dfsad f
+[ qwe ] : q sdr sdfg
+[ asd ] : 123123 123123 12312
+[ qwe ] : 222222222 2 2 2 22 2 
+[ asd ] : as dfsad f
+[ qwe ] : asdf asd f
+[ qwe ] : asdf sdf
+[ asd ] : 123123123123
+[ asd ] : 123123123123
+[ asd ] : qweqweqweqweqw
+[ asd ] : qweqweqweqweqw
+[ qwe ] : sdf sad
+[ qwe ] : sdfasdfsadfsd
+[ asd ] : sd fasdf asd
+[ asd ] : sd fasdf asd
+[ asd ] : s dfg sdfg sdfg
+[ asd ] : s dfg sdfg sdfg
+[ asd ] : sdfg sdfg sdfg
+[ asd ] : sdfg sdfg sdfg
+[ asd ] : d fasdf sadf
+[ asd ] : d fasdf sadf
+[ qwe ] : 111111111111111
+[ qwe ] : 111111111111111
+[ zxczxc ] : 2222222222
+[ zxczxc ] : df gdfg dfg
+[ zxczxc ] : sd fdfg sdfg 
+[ qwe ] : sdf sdf
+[ qwe ] : sdf sdf sd
+[ qwe ] : sd fsadf sadfsadf 345 23 345 234534 
+[ zxczxc ] : d fgsdf
+[ asd ] : zxcv xcv zxcv
+[ asd ] : 11111111122222
+[ qwe ] : d fsadf as
+[ qwe ] : sadf sadfsd
+[ asd ] : a sdfsad 
+[ qwe ] : sadf sd
+[ zxczxc ] : sd fsadf sa
+[ zorro ] : fdgsdfg dfg
+[ qwe ] : 1212121212121
+[ asd ] :  sdf asdf asdf
+[ qwe ] : s dfsad 
+[ zxczxc ] : sdf asdf
+[ qwe ] : sdf sdaf
+[ qwe ] :  asdfsa df
+[ qwe ] : as dfsa d
+[ asd ] :  asdf sadf
+[ asd ] : sa dfsa df
+[ asd ] : sad fsadf
+[ asd ] : sdf sdf sd
+[ qwe ] : ewr werwqe r
+[ qwe ] : q
+[ qwe ] : qweqweqwe
+[ asd ] : asd s dfsdf 
+[ asd ] : as sadf
+[ asd ] :  asdfdsfsdf d
+[ qwe ] : qweqweqwe
+
+[ muxa ]: bvygvygv
+[ muxa ]: hvgvvhgvjninij
+[ muxa ]: iuhugihjniij
