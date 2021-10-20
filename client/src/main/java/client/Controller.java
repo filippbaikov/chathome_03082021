@@ -150,7 +150,7 @@ public class Controller implements Initializable {
                             //==============//
                         } else {
                             textArea.appendText(str + "\n");
-                            
+                            MessageStory.writeMessage(str);
 
 
                         }
